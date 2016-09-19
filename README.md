@@ -1,4 +1,4 @@
-# geekswebbot
+# geekswebbot 
 Create bot for your website or blog easily with GeeksWebBot (GWB).
 
 ##Description
@@ -20,8 +20,9 @@ If you do not know how to setup a telegram bot, I recommend you to have a look o
 [http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/] (http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
 
 ## Contact
-* kasra@madadipouya.com
-* kasra_mp@live.com
+telegram:
+@ildenet
+Join our Telegram Super Group - https://telegram.me/joinchat/AOmo4jzvT2L6_PLrLApWqQ
 
 ##License
 GeeksWeb Bot (GWB) is free software; you can redistribute it and/or modify
