@@ -68,3 +68,6 @@ GNU General Public License for more details.  <http://www.gnu.org/licenses/>
 Author(s):
 
 © 2015 Kasra Madadipouya <kasra@madadipouya.com>
+
+#AVAILABLE METHODS
+https://telegram-bot-sdk.readme.io/v2.0/reference#sendmessage
