@@ -17,6 +17,6 @@ try {
     else 
     {
     }
-} catch (\Zelenin\Telegram\Bot\NotOkException $e) {
+} catch (\Zelenin\Telegram\Bot\Exception\NotOkException $e) {
 
 }
